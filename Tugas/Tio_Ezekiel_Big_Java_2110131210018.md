@@ -9,4 +9,5 @@
 - Menjelaskan algoritma pseudocode
 
 ### Isi Bab
-1.1 
+1.1 Program Komputer
+1.2 
